@@ -439,6 +439,7 @@ footer p {
     h1,
     h3 {
         text-align: center;
+        max-width: 500px;
 
     }
 
